@@ -1,4 +1,4 @@
-package eu.menzerath.webcrawler;
+package com.java.webcrawler;
 
 import javax.net.ssl.*;
 import java.awt.*;

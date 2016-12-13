@@ -1,4 +1,4 @@
-package eu.menzerath.webcrawler;
+package com.java.webcrawler;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;

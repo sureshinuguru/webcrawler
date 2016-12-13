@@ -1,4 +1,4 @@
-package eu.menzerath.webcrawler;
+package com.java.webcrawler;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
