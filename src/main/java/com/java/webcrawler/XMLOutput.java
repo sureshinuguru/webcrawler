@@ -1,4 +1,4 @@
-package com.java.webcrawler;
+package eu.menzerath.webcrawler;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

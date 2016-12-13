@@ -1,4 +1,4 @@
-package com.java.webcrawler;
+package eu.menzerath.webcrawler;
 
 import javax.swing.*;
 import java.awt.*;
